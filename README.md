@@ -1,8 +1,8 @@
 # Introduction to Ice in the Earth and Space Sciences (ESS 107)
-Instructor: Brad Lipovsky, bpl7@uw.edu
-Term: Spring Quarter 2022
-General Education Requirements: NW and QSR
-Course Prerequisites: None.
+- Instructor: Brad Lipovsky, bpl7@uw.edu
+- Term: Spring Quarter 2022
+- General Education Requirements: NW and QSR
+- Course Prerequisites: None.
 
 ## Course Description
 The cryosphere is the part of a planet with frozen water. This course covers glaciers, ice sheets, sea ice, icebergs, permafrost, lake ice, and snow on Earth and other planets. Emphasis is placed on human impacts. Course evaluation is based on quantitative assignments with significant coding and quantitative writing components. Background in neither STEM nor coding is required and there will be support for students new to these disciplines.
