@@ -43,7 +43,7 @@ Arabic numbers approximately correspond to week.
 - Human and social aspects of the cryosphere
 - Natural hazard impacts on communities
 
-Quantitative Assignment #1:  Quantify the cryosphere and its human impacts.  Students will identify a feature of interest such as a permafrost region, glacier, ice cap, or ice-covered lake.  After a discussion of Open Science principles, students will use open datasets to quantify the physical properties and societal relevance of this feature.  
+**Quantitative Assignment #1**:  Quantify the cryosphere and its human impacts.  Students will identify a feature of interest such as a permafrost region, glacier, ice cap, or ice-covered lake.  After a discussion of Open Science principles, students will use open datasets to quantify the physical properties and societal relevance of this feature.  
 
 #### II. Earth’s Cryosphere Today and in the Future
 
@@ -57,70 +57,70 @@ Quantitative Assignment #1:  Quantify the cryosphere and its human impacts.  Stu
 
 
 3. Permafrost
-Motivation: Impact of permafrost decline on Arctic first people.
-Permafrost distribution.
-Melt dynamics: landscape evolution, impact on the carbon cycle
-The challenge of building and infrastructure construction in the presence of permafrost soils
-Projections of future permafrost change and their certainty
+- Motivation: Impact of permafrost decline on Arctic first people.
+- Permafrost distribution.
+- Melt dynamics: landscape evolution, impact on the carbon cycle
+- The challenge of building and infrastructure construction in the presence of permafrost soils
+- Projections of future permafrost change and their certainty
 
 
 4. Sea Ice and Icebergs
-Motivation: Impact of sea ice decline on Arctic first people.
-Optics of ice.  Why is sea ice white and lake ice clear?
-Overview of the formation, structure, evolution, and mechanics of sea ice.
-Can we tow icebergs to get freshwater in the tropics?
-Projections of future sea ice change and their certainty (Will sea ice disappear in our lifetime?)
+- Motivation: Impact of sea ice decline on Arctic first people.
+- Optics of ice.  Why is sea ice white and lake ice clear?
+- Overview of the formation, structure, evolution, and mechanics of sea ice.
+- Can we tow icebergs to get freshwater in the tropics?
+- Projections of future sea ice change and their certainty (Will sea ice disappear in our lifetime?)
 
-Quantitative Assignment #2:  Physics-based models of motion, heat, and mass.
-
-
-Modern Mountain Glaciers
-Motivation: a sensitive indicator of climate change
-Case study: Ötzi, the ~5300 year old natural mummy found inside a glacier in the Alps
-Glacier mass and energy balance
-Glacier dynamics, Part 1: ice flow and sliding
-Glacier length changes as a sensitive indicator of climate.
-Projections of future glacier  change and their certainty
+**Quantitative Assignment #2**:  Physics-based models of motion, heat, and mass.
 
 
-Modern Antarctica and Greenland
-Motivation: potential for catastrophic sea level rise
-Glacier dynamics, Part 2: marine ice sheets
-How do we know the ice sheets are changing? Mass changes, elevation changes, and velocity changes.
-Sea level rise.  Global budget. Isostasy, eustacy, and non-eustasy.
-Projections of future ice sheet change and their certainty
-Impacts: inundation risk for coastal communities around the world
+5. Modern Mountain Glaciers
+- Motivation: a sensitive indicator of climate change
+- Case study: Ötzi, the ~5300 year old natural mummy found inside a glacier in the Alps
+- Glacier mass and energy balance
+- Glacier dynamics, Part 1: ice flow and sliding
+- Glacier length changes as a sensitive indicator of climate.
+- Projections of future glacier  change and their certainty
+
+
+6. Modern Antarctica and Greenland
+- Motivation: potential for catastrophic sea level rise
+- Glacier dynamics, Part 2: marine ice sheets
+- How do we know the ice sheets are changing? Mass changes, elevation changes, and velocity changes.
+- Sea level rise.  Global budget. Isostasy, eustacy, and non-eustasy.
+- Projections of future ice sheet change and their certainty
+- Impacts: inundation risk for coastal communities around the world
 
 
 #### III. The Cryosphere in Earth’s Past and on Other Planets 
 
-Glaciation on Earth:  The Pleistocene
-Motivation: The Pleistocene offers a glimpse into different climate states of an Earth not too different from our own.
-Theory of ice age cycles
-Glacial geology: subglacial erosion, small-, intermediate-, and large-scale erosional forms, landscapes.  Glacial sediments. Paleo-glaciological reconstructions.
+7. Glaciation on Earth:  The Pleistocene
+- Motivation: The Pleistocene offers a glimpse into different climate states of an Earth not too different from our own.
+- Theory of ice age cycles
+- Glacial geology: subglacial erosion, small-, intermediate-, and large-scale erosional forms, landscapes.  Glacial sediments. Paleo-glaciological reconstructions.
 
-Quantitative Assignment #3:  Time series analysis. The notion of time scale as evidenced Earth’s history of glaciation.
-
-
-Glaciation on Earth:  Snowball Earth and Phanerozoic Glaciations
-Motivation: origin of life on Earth.
-Snowball glaciations and the evolution of life
-Present-day life in the cryosphere as an analog to understand the origin of life and the search for life on other planets.  Supra-, sub-, and pro-glacial ecosystems.
-Emphasis on the wide range of past Earth climates
+**Quantitative Assignment #3**:  Time series analysis. The notion of time scale as evidenced Earth’s history of glaciation.
 
 
-Glaciations on other planets
-Motivation: is there life on other planets?
-Ice Shells: Europa, Enceladus, Ganymede, and Triton
-Ice sheets and cryo-volcanism on Mars
-Superionic ice: the deep interiors of Uranus and Neptune
-Water-ice mountains with solid nitrogen glaciers: Pluto and Triton
-Night-side ice sheets on tidally-locked exoplanets
+8. Glaciation on Earth:  Snowball Earth and Phanerozoic Glaciations
+- Motivation: origin of life on Earth.
+- Snowball glaciations and the evolution of life
+- Present-day life in the cryosphere as an analog to understand the origin of life and the search for life on other planets.  Supra-, sub-, and pro-glacial ecosystems.
+- Emphasis on the wide range of past Earth climates
+
+
+9. Glaciations on other planets
+- Motivation: is there life on other planets?
+- Ice Shells: Europa, Enceladus, Ganymede, and Triton
+- Ice sheets and cryo-volcanism on Mars
+- Superionic ice: the deep interiors of Uranus and Neptune
+- Water-ice mountains with solid nitrogen glaciers: Pluto and Triton
+- Night-side ice sheets on tidally-locked exoplanets
 
 
 #### IV. Wrapping up
 
-Review Lecture. Overview of course learning objectives.
+- Review Lecture. Overview of course learning objectives.
 
 
 ## Course Policies
