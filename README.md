@@ -9,15 +9,17 @@ The cryosphere is the part of a planet with frozen water. This course covers gla
 
 ## Coursework
 Evaluation consists of:
-Three equally-weighted Quantitative Assignments, each with several problems (90% of course grade)
-In-class problems submitted using a Classroom Response System (10% of grade)
-Quantitative Assignment will consist of several problems.  A typical problem will involve a student being given a prewritten Jupyter notebook with > 90% of the code already written.  The work to be completed will consist of either small modifications to the code --suitable for students with no coding experience-- or writing brief quantitative descriptions of datasets, methods, or results.
-Quantitative Assignments will be unique to each individual student.  For example, in one assignment each student will analyze a different glacier and no two students will analyze the same glacier.  However, because the same analysis will be performed on every glacier, the work will benefit from working together in groups. 
-Throughout the course, several in-class problems will be assigned and become due during a lecture sesion. To encourage attendance, the dates of the in-class problems won’t be announced ahead of time.
+- Three equally-weighted Quantitative Assignments, each with several problems (90% of course grade)
+- In-class problems submitted using a Classroom Response System (10% of grade)
+
+*The Quantitative Assignments is really what makes this class fun.*
+- Each Quantitative Assignment will consist of several problems.  A typical problem will involve a student being given a prewritten Jupyter notebook with > 90% of the code already written.  The work to be completed will consist of either small modifications to the code --suitable for students with no coding experience-- or writing brief quantitative descriptions of datasets, methods, or results.
+- Quantitative Assignments will be unique to each individual student.  For example, in one assignment each student will analyze a different glacier and no two students will analyze the same glacier.  However, because the same analysis will be performed on every glacier, the work will benefit from working together in groups. 
+- Throughout the course, several in-class problems will be assigned and become due during a lecture sesion. To encourage attendance, the dates of the in-class problems won’t be announced ahead of time.
 
 ## Grading
-Grades for each problem will be either zero (never handed in), one (complete and bug-free), or ½ (incomplete or buggy). Each assignment may be resubmitted for evaluation as many times as desired within the bounds set by the availability of the teaching staff and the duration of the term.
-Grades will be calculated by rescaling the sum of the grades for all problems (in-person or in the Assignments) to 4.0.  For example, consider a student who attempts all problems but doesn’t complete half of them. Half of their scores would be 0.5 and half would be 1.0.  This student would receive a grade of 3.0.
+- Grades for each problem will be either zero (never handed in), one (complete and bug-free), or ½ (incomplete or buggy). Each assignment may be resubmitted for evaluation as many times as desired within the bounds set by the availability of the teaching staff and the duration of the term.
+- Grades will be calculated by rescaling the sum of the grades for all problems (in-person or in the Assignments) to 4.0.  For example, consider a student who attempts all problems but doesn’t complete half of them. Half of their scores would be 0.5 and half would be 1.0.  This student would receive a grade of 3.0.
 
 ## Course meetings
 Course lectures (Monday, Wednesday, and Friday) will focus on presenting new material (Mondays and Wednesdays) and the quantitative assignments (Fridays). Coding studio time will emphasize hands-on work with the quantitative assignments.
