@@ -37,26 +37,26 @@ Arabic numbers approximately correspond to week.
 
 #### I. Getting Started
 
-Introduction to the Cryosphere.  
-Overview of the major components of Earth’s cryosphere, the history and future of ice on Earth, and overview of ice beyond Earth
-Overview of the basic physical processes of the cryosphere, conservation of mass, momentum, and energy
-Human and social aspects of the cryosphere
-Natural hazard impacts on communities
+1. Introduction to the Cryosphere.  
+- Overview of the major components of Earth’s cryosphere, the history and future of ice on Earth, and overview of ice beyond Earth
+- Overview of the basic physical processes of the cryosphere, conservation of mass, momentum, and energy
+- Human and social aspects of the cryosphere
+- Natural hazard impacts on communities
 
 Quantitative Assignment #1:  Quantify the cryosphere and its human impacts.  Students will identify a feature of interest such as a permafrost region, glacier, ice cap, or ice-covered lake.  After a discussion of Open Science principles, students will use open datasets to quantify the physical properties and societal relevance of this feature.  
 
 #### II. Earth’s Cryosphere Today and in the Future
 
-Seasonal Ice and Snow
-Motivation: food, water, and economic security
-How snow forms, falls, compacts, and melts. Types of snow crystals. Snow formations in nature.
-Seasonal ice on rivers and lakes
-Winter watershed hydrology
-Snow avalanches: types, occurrence, dynamics, hazards. 
-Projections of seasonal snow change and their certainty
+2. Seasonal Ice and Snow
+- Motivation: food, water, and economic security
+- How snow forms, falls, compacts, and melts. Types of snow crystals. Snow formations in nature.
+- Seasonal ice on rivers and lakes
+- Winter watershed hydrology
+- Snow avalanches: types, occurrence, dynamics, hazards. 
+- Projections of seasonal snow change and their certainty
 
 
-Permafrost
+3. Permafrost
 Motivation: Impact of permafrost decline on Arctic first people.
 Permafrost distribution.
 Melt dynamics: landscape evolution, impact on the carbon cycle
@@ -64,7 +64,7 @@ The challenge of building and infrastructure construction in the presence of per
 Projections of future permafrost change and their certainty
 
 
-Sea Ice and Icebergs
+4. Sea Ice and Icebergs
 Motivation: Impact of sea ice decline on Arctic first people.
 Optics of ice.  Why is sea ice white and lake ice clear?
 Overview of the formation, structure, evolution, and mechanics of sea ice.
