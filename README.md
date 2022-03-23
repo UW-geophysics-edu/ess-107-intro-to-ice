@@ -12,7 +12,7 @@ Evaluation consists of:
 - Three equally-weighted Quantitative Assignments, each with several problems (90% of course grade)
 - In-class problems submitted using a Classroom Response System (10% of grade)
 
-*The Quantitative Assignments is really what makes this class fun.*
+***The Quantitative Assignments are really what makes this course fun.***
 - Each Quantitative Assignment will consist of several problems.  A typical problem will involve a student being given a prewritten Jupyter notebook with > 90% of the code already written.  The work to be completed will consist of either small modifications to the code --suitable for students with no coding experience-- or writing brief quantitative descriptions of datasets, methods, or results.
 - Quantitative Assignments will be unique to each individual student.  For example, in one assignment each student will analyze a different glacier and no two students will analyze the same glacier.  However, because the same analysis will be performed on every glacier, the work will benefit from working together in groups. 
 - Throughout the course, several in-class problems will be assigned and become due during a lecture sesion. To encourage attendance, the dates of the in-class problems won’t be announced ahead of time.
