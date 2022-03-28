@@ -26,12 +26,12 @@ Evaluation consists of:
 Course lectures (Monday, Wednesday, and Friday) will focus on presenting new material (Mondays and Wednesdays) and the quantitative assignments (Fridays). Coding studio time will emphasize hands-on work with the quantitative assignments.
 
 ## Learning Objectives
-Understand the basic observations and datasets that are the basis for our knowledge of the cryosphere (Quantitative Assignment #1).
-Be able to explain --using the principles of mass, momentum, and energy conservation-- the occurrence, motion, and stability of various aspects of the cryosphere on Earth and other planets (Quantitative Assignment #2).
-Analyze the dynamics of various components of the cryosphere using simplified statistical (Quantitative Assignment #1), physics-based (Quantitative Assignment #2), and time series techniques (Quantitative Assignment #3).
-Describe and evaluate cryosphere--societal connections (All Quantitative Assignments).
-Create extensions to existing computer codes in order to analyze components of the Cryosphere (All Quantitative Assignments).
-Be able to articulate Open Science principles (All Quantitative Assignments).
+1. Understand the basic observations and datasets that are the basis for our knowledge of the cryosphere (Quantitative Assignment #1).
+2. Be able to explain --using the principles of mass, momentum, and energy conservation-- the occurrence, motion, and stability of various aspects of the cryosphere on Earth and other planets (Quantitative Assignment #2).
+3. Analyze the dynamics of various components of the cryosphere using simplified statistical (Quantitative Assignment #1), physics-based (Quantitative Assignment #2), and time series techniques (Quantitative Assignment #3).
+4. Describe and evaluate cryosphere--societal connections (All Quantitative Assignments).
+5. Create extensions to existing computer codes in order to analyze components of the Cryosphere (All Quantitative Assignments).
+6. Be able to articulate Open Science principles (All Quantitative Assignments).
 
 
 
