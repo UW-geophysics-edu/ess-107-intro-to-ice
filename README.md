@@ -40,7 +40,7 @@ Arabic numbers approximately correspond to week.
 
 #### I. Getting Started
 
-1. Introduction to the Cryosphere.  ( [Slides](https://docs.google.com/presentation/d/16VU5b32Ybh2sbDRV4y3oaQXyY23NdjNwbkXW5OKT8Zk/edit?usp=sharing), [Survey](https://forms.gle/16GB5tQrTXvsR4Rw8) )
+1. Introduction to the Cryosphere.  ( [Slides](https://docs.google.com/presentation/d/16VU5b32Ybh2sbDRV4y3oaQXyY23NdjNwbkXW5OKT8Zk/edit?usp=sharing), [Survey](https://forms.gle/a4AmtELxowYADPdS6) )
 - Overview of the major components of Earth’s cryosphere, the history and future of ice on Earth, and overview of ice beyond Earth
 - Overview of the basic physical processes of the cryosphere, conservation of mass, momentum, and energy
 - Human and social aspects of the cryosphere
