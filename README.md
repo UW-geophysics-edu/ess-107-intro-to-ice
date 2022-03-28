@@ -1,4 +1,4 @@
-# INTO TO ICE
+# INTRO TO ICE
 ## (Introduction to Ice in the Earth and Space Sciences, ESS 107)
 - Instructor: Brad Lipovsky, bpl7@uw.edu
 - Term: Spring Quarter 2022
