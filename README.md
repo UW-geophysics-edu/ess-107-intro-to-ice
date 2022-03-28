@@ -48,6 +48,8 @@ Arabic numbers approximately correspond to week.
 
 **Quantitative Assignment #1**:  Quantify the cryosphere and its human impacts.  Students will identify a feature of interest such as a permafrost region, glacier, ice cap, or ice-covered lake.  After a discussion of Open Science principles, students will use open datasets to quantify the physical properties and societal relevance of this feature.  
 
+**[Link to Week One Survey](https://forms.gle/16GB5tQrTXvsR4Rw8)**
+
 #### II. Earth’s Cryosphere Today and in the Future
 
 2. Seasonal Ice and Snow
