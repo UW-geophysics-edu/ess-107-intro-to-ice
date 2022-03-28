@@ -40,15 +40,13 @@ Arabic numbers approximately correspond to week.
 
 #### I. Getting Started
 
-1. Introduction to the Cryosphere.  
+1. Introduction to the Cryosphere.  ( [Slides](https://docs.google.com/presentation/d/16VU5b32Ybh2sbDRV4y3oaQXyY23NdjNwbkXW5OKT8Zk/edit?usp=sharing), [Survey](https://forms.gle/16GB5tQrTXvsR4Rw8) )
 - Overview of the major components of Earth’s cryosphere, the history and future of ice on Earth, and overview of ice beyond Earth
 - Overview of the basic physical processes of the cryosphere, conservation of mass, momentum, and energy
 - Human and social aspects of the cryosphere
 - Natural hazard impacts on communities
 
 **Quantitative Assignment #1**:  Quantify the cryosphere and its human impacts.  Students will identify a feature of interest such as a permafrost region, glacier, ice cap, or ice-covered lake.  After a discussion of Open Science principles, students will use open datasets to quantify the physical properties and societal relevance of this feature.  
-
-**[Link to Week One Survey](https://forms.gle/16GB5tQrTXvsR4Rw8)**
 
 #### II. Earth’s Cryosphere Today and in the Future
 
