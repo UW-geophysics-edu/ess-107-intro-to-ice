@@ -10,7 +10,7 @@ The cryosphere is the part of a planet with frozen water. This course covers gla
 
 ## Coursework
 Evaluation consists of:
-- Three equally-weighted Quantitative Assignments, each with several problems (90% of course grade)
+- Several equally-weighted Quantitative Assignments, each with several problems (90% of course grade)
 - In-class problems submitted using a Classroom Response System (10% of grade)
 
 ***The Quantitative Assignments are what makes this course fun.***
