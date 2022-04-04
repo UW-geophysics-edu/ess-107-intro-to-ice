@@ -50,7 +50,7 @@ Arabic numbers approximately correspond to week.
 
 #### II. Earth’s Cryosphere Today and in the Future
 
-2. Seasonal Ice and Snow
+2. Seasonal Ice and Snow ([Slides](https://docs.google.com/presentation/d/1f9Hm6U3LkJjOfsfK4Fuo6sDCnAw0LtZxKCqUYgHubrY/edit?usp=sharing))
 - Motivation: food, water, and economic security
 - How snow forms, falls, compacts, and melts. Types of snow crystals. Snow formations in nature.
 - Seasonal ice on rivers and lakes
