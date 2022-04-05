@@ -4,6 +4,7 @@
 - Term: Spring Quarter 2022
 - General Education Requirements: NW and QSR
 - Course Prerequisites: None.
+- [Link to Course JupyterHub](https://sermeq.ess.washington.edu/jhub/) -- Requires UW NetID
 
 ## Course Description
 The cryosphere is the part of a planet with frozen water. This course covers glaciers, ice sheets, sea ice, icebergs, permafrost, lake ice, and snow on Earth and other planets. Emphasis is placed on human impacts. Course evaluation is based on quantitative assignments with significant coding and quantitative writing components. Background in neither STEM nor coding is required and there will be support for students new to these disciplines.
@@ -46,8 +47,6 @@ Arabic numbers approximately correspond to week.
 - Human and social aspects of the cryosphere
 - Natural hazard impacts on communities
 
-**Quantitative Assignment #1** ([Link to JupyterHub](https://sermeq.ess.washington.edu/jhub/) -- Requires UW NetID)  Quantify the cryosphere and its human impacts.  Students will identify a feature of interest such as a permafrost region, glacier, ice cap, or ice-covered lake.  After a discussion of Open Science principles, students will use open datasets to quantify the physical properties and societal relevance of this feature.  
-
 #### II. Earth’s Cryosphere Today and in the Future
 
 2. Seasonal Ice and Snow ([Slides](https://docs.google.com/presentation/d/1f9Hm6U3LkJjOfsfK4Fuo6sDCnAw0LtZxKCqUYgHubrY/edit?usp=sharing))
@@ -66,6 +65,7 @@ Arabic numbers approximately correspond to week.
 - The challenge of building and infrastructure construction in the presence of permafrost soils
 - Projections of future permafrost change and their certainty
 
+**Quantitative Assignment #1**   Quantify the cryosphere and its human impacts.  Students will identify a feature of interest such as a permafrost region, glacier, ice cap, or ice-covered lake.  After a discussion of Open Science principles, students will use open datasets to quantify the physical properties and societal relevance of this feature.  
 
 4. Sea Ice and Icebergs
 - Motivation: Impact of sea ice decline on Arctic first people.
