@@ -58,16 +58,16 @@ Arabic numbers approximately correspond to week.
 - Projections of seasonal snow change and their certainty
 
 
-3. Permafrost
+3. Permafrost ([Slides](https://docs.google.com/presentation/d/1Mx9MMe1SL0vb0XO8W9wTAejgwQGK1CuDb4Bcs09qR_c/edit))
 - Motivation: Impact of permafrost decline on Arctic first people.
 - Permafrost distribution.
 - Melt dynamics: landscape evolution, impact on the carbon cycle
 - The challenge of building and infrastructure construction in the presence of permafrost soils
 - Projections of future permafrost change and their certainty
 
-**Quantitative Assignment #1**   Quantify the cryosphere and its human impacts.  Students will identify a feature of interest such as a permafrost region, glacier, ice cap, or ice-covered lake.  After a discussion of Open Science principles, students will use open datasets to quantify the physical properties and societal relevance of this feature.  
+**Quantitative Assignment #1**
 
-4. Sea Ice and Icebergs
+4. Sea Ice and Icebergs ([Slides](https://docs.google.com/presentation/d/1wMExEy_N0g-fs3Y0P5DbwlZHJ9bU0h1UVq7lQnSsuZ8/edit))
 - Motivation: Impact of sea ice decline on Arctic first people.
 - Optics of ice.  Why is sea ice white and lake ice clear?
 - Overview of the formation, structure, evolution, and mechanics of sea ice.
