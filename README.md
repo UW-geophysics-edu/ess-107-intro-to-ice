@@ -69,9 +69,7 @@ Arabic numbers approximately correspond to week.
 
 4. Sea Ice and Icebergs ([Slides](https://docs.google.com/presentation/d/1wMExEy_N0g-fs3Y0P5DbwlZHJ9bU0h1UVq7lQnSsuZ8/edit))
 - Motivation: Impact of sea ice decline on Arctic first people.
-- Optics of ice.  Why is sea ice white and lake ice clear?
 - Overview of the formation, structure, evolution, and mechanics of sea ice.
-- Can we tow icebergs to get freshwater in the tropics?
 - Projections of future sea ice change and their certainty (Will sea ice disappear in our lifetime?)
 
 **Quantitative Assignment #2**:  Physics-based models of motion, heat, and mass.
