@@ -67,7 +67,7 @@ Arabic numbers approximately correspond to week.
 
 **Quantitative Assignment #1**
 
-4. Sea Ice and Icebergs ([Slides](https://docs.google.com/presentation/d/1wMExEy_N0g-fs3Y0P5DbwlZHJ9bU0h1UVq7lQnSsuZ8/edit))
+4. Sea Ice and Icebergs ([Slides](https://docs.google.com/presentation/d/1wMExEy_N0g-fs3Y0P5DbwlZHJ9bU0h1UVq7lQnSsuZ8/edit); [Survey](https://forms.gle/hLWBWU9JDEbS9m5E8))
 - Motivation: Impact of sea ice decline on Arctic first people.
 - Overview of the formation, structure, evolution, and mechanics of sea ice.
 - Projections of future sea ice change and their certainty (Will sea ice disappear in our lifetime?)
