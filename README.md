@@ -75,7 +75,7 @@ Arabic numbers approximately correspond to week.
 **Quantitative Assignment #2**:  Physics-based models of motion, heat, and mass.
 
 
-5. Modern Mountain Glaciers
+5. Modern Mountain Glaciers ([Slides](https://docs.google.com/presentation/d/1TvFrw7aeI1zZvUsW-qMbtPzu4ZUHc8avUYgiEZ81re8/edit); [Survey](https://forms.gle/DdjCdVVUB6LLD5Ut8))
 - Motivation: a sensitive indicator of climate change
 - Case study: Ötzi, the ~5300 year old natural mummy found inside a glacier in the Alps
 - Glacier mass and energy balance
