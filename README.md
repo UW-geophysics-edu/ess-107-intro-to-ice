@@ -84,7 +84,7 @@ Arabic numbers approximately correspond to week.
 - Projections of future glacier  change and their certainty
 
 
-6. The Ice Sheets: Antarctica and Greenland ([Slides](https://docs.google.com/presentation/d/10rCzrpmUkVE_E56086EMGWgMBm6ui4EmsjOwWmuhPGE/edit#slide=id.g126bdec0de0_0_159)
+6. The Ice Sheets: Antarctica and Greenland ([Slides](https://docs.google.com/presentation/d/10rCzrpmUkVE_E56086EMGWgMBm6ui4EmsjOwWmuhPGE/edit#slide=id.g126bdec0de0_0_159); [In-Class Writing Assignment](https://forms.gle/Ve42yEkxT65VQxF4A))
 - Motivation: potential for catastrophic sea level rise
 - Glacier dynamics, Part 2: marine ice sheets
 - How do we know the ice sheets are changing? Mass changes, elevation changes, and velocity changes.
