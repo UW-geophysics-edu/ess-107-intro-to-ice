@@ -56,7 +56,8 @@ Arabic numbers approximately correspond to week.
 - Winter watershed hydrology
 - Snow avalanches: types, occurrence, dynamics, hazards. 
 - Projections of seasonal snow change and their certainty
-
+- 
+**Quantitative Assignment #1** Thermodynamics of lake ice growth
 
 3. Permafrost ([Slides](https://docs.google.com/presentation/d/1Mx9MMe1SL0vb0XO8W9wTAejgwQGK1CuDb4Bcs09qR_c/edit))
 - Motivation: Impact of permafrost decline on Arctic first people.
@@ -65,14 +66,14 @@ Arabic numbers approximately correspond to week.
 - The challenge of building and infrastructure construction in the presence of permafrost soils
 - Projections of future permafrost change and their certainty
 
-**Quantitative Assignment #1**
+
 
 4. Sea Ice and Icebergs ([Slides](https://docs.google.com/presentation/d/1wMExEy_N0g-fs3Y0P5DbwlZHJ9bU0h1UVq7lQnSsuZ8/edit); [Survey](https://forms.gle/hLWBWU9JDEbS9m5E8))
 - Motivation: Impact of sea ice decline on Arctic first people.
 - Overview of the formation, structure, evolution, and mechanics of sea ice.
 - Projections of future sea ice change and their certainty (Will sea ice disappear in our lifetime?)
 
-**Quantitative Assignment #2**:  Physics-based models of motion, heat, and mass.
+**Quantitative Assignment #2**:  Force balance and icebergs
 
 
 5. Mountain Glaciers ([Slides](https://docs.google.com/presentation/d/1TvFrw7aeI1zZvUsW-qMbtPzu4ZUHc8avUYgiEZ81re8/edit); [Survey](https://forms.gle/DdjCdVVUB6LLD5Ut8))
@@ -92,6 +93,8 @@ Arabic numbers approximately correspond to week.
 - Projections of future ice sheet change and their certainty
 - Impacts: inundation risk for coastal communities around the world
 
+**Quantitative Assignment #3**: Data scientific analysis of mountain glaciers
+
 
 #### III. The Cryosphere in Earth’s Past and on Other Planets 
 
@@ -100,14 +103,14 @@ Arabic numbers approximately correspond to week.
 - Theory of ice age cycles
 - Glacial geology: subglacial erosion, small-, intermediate-, and large-scale erosional forms, landscapes.  Glacial sediments. Paleo-glaciological reconstructions.
 
-**Quantitative Assignment #3**:  Time series analysis. The notion of time scale as evidenced Earth’s history of glaciation.
-
 
 8. Glaciation on Earth:  Snowball Earth and Phanerozoic Glaciations
 - Motivation: origin of life on Earth.
 - Snowball glaciations and the evolution of life
 - Present-day life in the cryosphere as an analog to understand the origin of life and the search for life on other planets.  Supra-, sub-, and pro-glacial ecosystems.
 - Emphasis on the wide range of past Earth climates
+
+**Quantitative Assignment #4**:  Time series analysis. The notion of time scale as evidenced Earth’s history of glaciation.
 
 
 9. Glaciations on other planets
