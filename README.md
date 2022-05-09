@@ -95,7 +95,7 @@ Arabic numbers approximately correspond to week.
 
 #### III. The Cryosphere in Earth’s Past and on Other Planets 
 
-7. Glaciation on Earth:  The Pleistocene
+7. Glaciation on Earth:  The Pleistocene ([Slides](https://docs.google.com/presentation/d/1x-mvjxy6BiUunXFunpOEAmYBlHiB4e_EXAc2k_NqAZw/edit#slide=id.g128da0495b1_0_59), [Writing Assignment](https://forms.gle/sshVZWwKScGWxDT97))
 - Motivation: The Pleistocene offers a glimpse into different climate states of an Earth not too different from our own.
 - Theory of ice age cycles
 - Glacial geology: subglacial erosion, small-, intermediate-, and large-scale erosional forms, landscapes.  Glacial sediments. Paleo-glaciological reconstructions.
