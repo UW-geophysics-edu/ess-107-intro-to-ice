@@ -1,5 +1,5 @@
 # ❄️❄️❄️ INTRO TO ICE ❄️❄️❄️
-## (Introduction to Ice in the Earth and Space Sciences, ESS 107)
+## Introduction to Ice in the Earth and Space Sciences, ESS 107
 - Instructor: Brad Lipovsky, bpl7@uw.edu
 - Term: Spring Quarter 2022
 - General Education Requirements: NW and QSR
@@ -104,7 +104,7 @@ Arabic numbers approximately correspond to week.
 - Glacial geology: subglacial erosion, small-, intermediate-, and large-scale erosional forms, landscapes.  Glacial sediments. Paleo-glaciological reconstructions.
 
 
-8. Glaciation on Earth:  Snowball Earth and Phanerozoic Glaciations
+8. Glaciation on Earth:  Deep-time Glaciations and Snowball Earth ([Slides](https://docs.google.com/presentation/d/1xGydqQYXo86fGqtnA9YEq4Xn7T_uNOCM4kHLJ_RKBDk/edit#slide=id.g12ae7918fce_0_72), [Writing Assignment](https://forms.gle/H7SvS9oaRegniRAM7))
 - Motivation: origin of life on Earth.
 - Snowball glaciations and the evolution of life
 - Present-day life in the cryosphere as an analog to understand the origin of life and the search for life on other planets.  Supra-, sub-, and pro-glacial ecosystems.
