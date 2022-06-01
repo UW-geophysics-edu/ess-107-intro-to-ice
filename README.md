@@ -124,7 +124,8 @@ Arabic numbers approximately correspond to week.
 
 #### IV. Wrapping up
 
-- Review Lecture. Overview of course learning objectives.
+- Review Lecture ([Writing Assignment](https://forms.gle/5rm35i4Ks8PnD7Ni6)). 
+Overview of course learning objectives.
 
 
 ## Course Policies
