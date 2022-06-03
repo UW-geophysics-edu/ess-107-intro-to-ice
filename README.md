@@ -113,7 +113,7 @@ Arabic numbers approximately correspond to week.
 **Quantitative Assignment #4**:  Time series analysis. The notion of time scale as evidenced Earth’s history of glaciation.
 
 
-9. Glaciations on other planets
+9. Glaciations on other planets ([Slides](https://docs.google.com/presentation/d/1o99sBIIbAsbnCNj8lS0QyWIk-jqvjbMmKCwQbVggt8A/edit?usp=sharing), [Writing Assignment](https://forms.gle/Tk6PcLzn56fLyEn39))
 - Motivation: is there life on other planets?
 - Ice Shells: Europa, Enceladus, Ganymede, and Triton
 - Ice sheets and cryo-volcanism on Mars
@@ -124,7 +124,8 @@ Arabic numbers approximately correspond to week.
 
 #### IV. Wrapping up
 
-- Review Lecture. Overview of course learning objectives.
+- Review Lecture ([Writing Assignment](https://forms.gle/5rm35i4Ks8PnD7Ni6)). 
+Overview of course learning objectives.
 
 
 ## Course Policies
